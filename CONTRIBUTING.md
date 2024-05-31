@@ -1,8 +1,3 @@
----
-title: Contibuting Notes
-layout: template
-filename: CONTRIBUTING.md
---- 
 # Contibuting Notes
 
 ## Table of Contents
