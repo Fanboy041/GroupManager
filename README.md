@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Welcome to our (GroupManager)[https://github.com/Fanboy041/GroupManager], It's a bot to help you manage your groups and channels
+Welcome to our [GroupManager](https://github.com/Fanboy041/GroupManager), It's a bot to help you manage your groups and channels
 
 ### Directory Layout
 
