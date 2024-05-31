@@ -3,11 +3,12 @@
 ## Table of Contents
 
 1. [Creating a Bot on Telegram](#creating-a-bot-on-telegram)
-2. [Cloning the Repository](#cloning-the-repository)
-3. [Setting Up the Workspace](#setting-up-the-workspace)
-4. [Running the Bot](#running-the-bot)
-5. [Project Structure](#project-structure)
-6. [Notes](#notes)
+2. [Creating an App on Telegram](#creating-an-app-on-telegram)
+3. [Cloning the Repository](#cloning-the-repository)
+4. [Setting Up the Workspace](#setting-up-the-workspace)
+5. [Running the Bot](#running-the-bot)
+6. [Project Structure](#project-structure)
+7. [Notes](#notes)
 
 ## Creating a Bot on Telegram
 
@@ -15,6 +16,46 @@
 2. Start the BotFather bot and send the command: `/newbot`.
 3. Follow the instructions to name your bot and set a username.
 4. BotFather will provide you with an API token. Keep this token for the next steps.
+
+## Creating an App on Telegram
+
+1- Navigate to the Website:
+
+Open your web browser and go to [my.telegram.org](https://my.telegram.org/).
+
+2- Log In:
+
+Log in using your phone number. You will receive a confirmation code in the Telegram app, which you need to enter on the website.
+
+3- Navigate to API Development Tools:
+
+After logging in, you will see the "API Development Tools" section. Click on it to proceed.
+
+4- Create a New Application:
+
+You will be prompted to create a new application. Fill in the required fields:
+
+- App title: The name of your application.
+- Short name: A short identifier for your application.
+- URL: Enter a placeholder URL if you don't have a public URL, such as http://example.com.
+- Platform: Select the platform your application will run on (e.g., Desktop, Web, Android, iOS).
+- Description: A brief description of your application.
+
+Here’s an example of how you might fill out the form:
+
+- App title: MyTelegramApp
+- Short name: mytelegramapp
+- URL: http://example.com
+- Platform: Desktop
+- Description: This is a test application for interacting with the Telegram API.
+
+5- Submit the Form
+
+After filling out the form, click the "Create Application" button.
+
+6- Retrieve Your API ID and API Hash
+
+Once the application is created, you will be redirected to a page displaying your application's details, including your API ID and API hash. These credentials are essential for interacting with the Telegram API.
 
 ## Cloning the Repository
 
