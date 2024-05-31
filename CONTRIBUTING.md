@@ -19,19 +19,19 @@
 
 ## Creating an App on Telegram
 
-1- Navigate to the Website:
+### Navigate to the Website
 
 Open your web browser and go to [my.telegram.org](https://my.telegram.org/).
 
-2- Log In:
+### Log In
 
 Log in using your phone number. You will receive a confirmation code in the Telegram app, which you need to enter on the website.
 
-3- Navigate to API Development Tools:
+### Navigate to API Development Tools
 
 After logging in, you will see the "API Development Tools" section. Click on it to proceed.
 
-4- Create a New Application:
+### Create a New Application
 
 You will be prompted to create a new application. Fill in the required fields:
 
@@ -49,11 +49,11 @@ Here’s an example of how you might fill out the form:
 - Platform: Desktop
 - Description: This is a test application for interacting with the Telegram API.
 
-5- Submit the Form
+### Submit the Form
 
 After filling out the form, click the "Create Application" button.
 
-6- Retrieve Your API ID and API Hash
+### Retrieve Your API ID and API Hash
 
 Once the application is created, you will be redirected to a page displaying your application's details, including your API ID and API hash. These credentials are essential for interacting with the Telegram API.
 
